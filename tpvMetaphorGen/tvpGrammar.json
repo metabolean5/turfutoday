@@ -1,0 +1,19 @@
+ {
+  "S":"NP VP",
+  "NP":"DET N|NOMP", 
+  "VP":"IS ADJP",
+  "ADJP":"ADV ADJ ADV NP",
+  "pDET":"your|my",
+  "pN":"family|faith|ass|cock|shit|money|desire|jugement",
+  "ADJ2":"much|badly|wonderfully|adoringly|brutally",
+  "PP":"P NP",
+  "N": "spirit|guy|machine|computer|metaphysics|fucker|feminist|feminazi|epistemology|transcendence|holy spirit|statistical method|logic|algorithm|language|knowledge|computer program|fuckhead|world|motherfucker|shit|master|whorehouse|warlord|programmer|developper|wanker|sperm|professor|researcher|PHD student|sperm-shit-soup", 
+  "V": "fucks|kills|blesses|shits|stinks|sucks up|juges|transcends|forgives|manipulates|controls|influences",
+  "P":  "as|from|behind|like|through|of|hidden by",
+  "DET": "the|this", 
+  "ADV":"as",
+  "ADJ":"stupid|crazy|beautiful|magnificient|blessed|fucked|holy|divine|worthy|good|funky|racist|misogynist|feminine|masculist|bourgeois|computerized|sperm dripping|transcendental",
+  "NOMP":"money|Hitler|Michael Bay|Jacques Lacan|Donald Trump|Jésus|Greta Thunberg|psychoanalysis|Science|Hugo De Garis",
+  "NPsPP":"DET N|NOMP|DET ADJ N",
+  "IS":"is"
+  }

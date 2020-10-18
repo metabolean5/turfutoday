@@ -1,0 +1,46 @@
+ {
+  "S":"MNP PREP FNPs|FNP PREP MNPs|INTRO_PREP MNP NXTLN FNPs|INTRO_PREP FNP NXTLN MNPs",
+  "MNP":"S_M V_INF OBJ_STM_M_INF|S_M V_GEN OBJ_STM_M", 
+  "MNPs":"S_Ms V_INF OBJ_STM_M_INF|S_Ms V_GEN OBJ_STM_M",
+  "FNP":"S_F V_INF OBJ_STM_F_INF|S_F V_GEN OBJ_STM_F", 
+  "FNPs":"S_Fs V_INF OBJ_STM_F_INF|S_Fs V_GEN OBJ_STM_F", 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+  "INTRO_PREP":"Puisque|Alors que|Tandis que",
+  "PREP":"\nmais,|\ncependant,",
+  "NXTLN":"\n",
+  "S_F":"Elle|Maman|cette bonne femme|la maitresse de maison|Greta Thunberg|la vierge Marie|Nina Pastor|Madame|cette jeune fille|la meuf au rouge à lèvre|la fille aux talons aiguille",
+  "S_M":"ce connard|ce bon fils de pute|le bon petit père|ce dealer de C|Il|Papa|Lacan|ce père de famille|Virgile Cartier|Mon père|Hugo De Garis|Louis Althusser|Martial Pastor|Jean Macquet|Antoine Szatkownik|Monsieur|Monsieur le directeur|Mon père",
+  "V_GEN":"aime|déteste|adore",
+  "V_INF":"préfèrai|aimerai|pense|éspere un jour|rève de|fait semblant de|est obligé(e) de|s'engage à|s'exerce à|s'applique à",
+  "S_Fs":"sa mère|sa soeur|sa femme|sa patrone|sa directrice de thèse|sa fille|son ex-femme|son plan cul|sa copine|sa meuf|sa bonne femme|sa cousine|sa chienne de femme|sa psy",
+  "S_Ms":"son mec|son directeur de thèse|son mari|son père|son connard de fiancé|son chien|son fils|son boss|son chef|son plan cul|son médecin|son psy|son fiancé|son copain",
+  "OBJ_STM_F_INF":"savoir faire une bonne pipe|prendre du Lexomil|avoir honte de ne pas l'avoir encore fait|dire non quand elle veut dire oui|rester à la maison|avoir des petites mains|prendre soin de ses cheveux|s'intéresser à la mode|dire oui quand elle veut dire non|être anorexique|se faire des manucures|trouver l'amour|être patiente|faire plus de 1k likes par tof sur insta|regarder Cendrillon|prendre des cocktails hyperchargés d'oestrogène et de progestérone|regarder la Belle au bois dormant|désirer un enfant",
+  "OBJ_STM_F":"le courage des mères|prendre la pilule|prendre des cocktails hyperchargés d'oestrogène et de progestérone|l'honneur des vierges|être boulimique|le désir d'enfant un enfant|la honte de la défloration|La petite sirène|l'immoralité ultime de l'avortement|les gourmandises|savoir faire une bonne pipe|prendre du Lexomil|avoir honte de ne pas l'avoir encore fait|dire non quand elle veut dire oui|réster à la maison|avoir des petites mains|la codéine|prendre soin de ses cheveux|s'intéresser à la mode|dire oui quand elle veut dire non|être anorexique|être amoureuse de sa meilleure copine|la peur de veillir|devoir être au régime|la kleptomanie|la compassion|faire la cuisine|la sensualité déséspérer de Marilyn Monroe|se faire des manucures|devoir ne pas faire de bruit quand elle marche|devoir ne pas faire de bruit quand elle mange|le coton immaculé et cancérigène du Tampax|la certitude de la maternité comme lien naturel|ne pas savoir grand chose ou en savoir beaucoup mais ne pas pouvoir en parler|ne pas savoir crier|ne pas savoir se battre|être patiente|l'élégance discrète de Lady Di|la nécéssité de porter un string|savoir se retenir|se laisser enculer quand il le faut|se résigner|la juste épilation du pubis|la dépréssion|les petites boules à la lavande qui sentent bon|bien sourir quand il le faut|le momification vivante du visage lisse de la jeunesse|l'amour avant le sexe|l'éventualité du cancer du sein|être une femme entretenue|l'abandon de son mari pour une femme plus jeune",
+  "OBJ_STM_M_INF":"savoir casser des geules|savoir élever la voix|faire la guerre|bander comme Rocco Siffredi|savoir boir|se tapper des mineures|draguer les lycéennes qui fument des clopes|gagner de l'argent|aller dans des bars|prendre du Viagra|se soûler|préparer son suicide|s'offrir des grosses montres|serer son anus|regarder des films d'horreur|regarder du porno|faire des paris sportifs",
+  "OBJ_STM_M":"le foot|Braindead|casser des geules|élever la voix|la précarité de la paternité comme lien naturel|tuer de ses mains|les moyens de communication|son ulcère à l'estomac|l'odeur de la sueur|faire la guerre|le swag à Bruce Willus|la vitesse|le sexe pour le sexe|bander comme Rocco Siffredi|savoir boir|gagner de l'argent|l'idée de la ville et la ville|aller dans des bars|parler des putes|la boxe|la honte de ne pas bander comme Rocco Siffredi|prendre du Viagra|le cancer de la prostate|la philosophie|avoir les mains sales|payer une pension à son ex-femme|la violence conjugale|regarder des films d'horreur|regarder du porno|faire des paris sportifs|être le patron|avoir un bon poste au Gouvernement|aller à la chasse et à la pêche|mettre une cravate|boire de l'alcool|sa calvitie|regarder le Tour de France|se soûler|préparer son suicide|s'offrir des grosses montres|serer son anus|la camaradarie|éclater de rire|l'intelligence|le savoir encyclopédique|son obsession sexuelle|le donjuanisme|sa misoginye|être un skin|l'idée d'abandonner sa femme pour une plus jeune|sa peur de se faire enculer|ne plus voir ses enfants après son divorce|se faire enculé|se tapper des mineures|draguer les lycéennes qui fument des clopes"
+  }

@@ -1,0 +1,21 @@
+ {
+  "PRAG":"Well,|Hey yo,|yo listen,|Let me tell ya,",
+  "S":"NP VP|PRAG NP VP",
+  "NP":"DET N|NOMP|DET ADJ N|DET N PP|NOMP PP|DET ADJ NOMP PP|DET ADJ N PP|pDET pN|pDET ADJ pN|pDET ADJ pN PP", 
+  "VP":"V NP|IS ADJP|IS NP|V ADJP2|V NP ADV NP VP",
+  "ADJP":"ADV ADJ ADV NP|ADV ADJ2 ADJ PP",
+  "ADJP2":"ADV ADJ2 PP",
+  "pDET":"your|my",
+  "pN":"family|faith|ass|money|desire|jugement",
+  "ADJ2":"much|badly|wonderfully|adoringly|brutally",
+  "PP":"P NP",
+  "N": "psychoanalyst|spirit|guy|machine|computer|metaphysics|feminist|feminazi|epistemology|PHD student|transcendence|holy spirit|statistical method|logic|algorithm|language|knowledge|computer program|world|shit|master|professor|researcher|programmer|developper|wanker", 
+  "V": "kills|sodomizes|blesses|shits|stinks|symbolises|wants|desires|sucks up|juges|transcends|manipulates|controls|influences",
+  "P":  "as|from|as well as|beyond|off|like|through|of|hidden by",
+  "DET": "the|this", 
+  "ADV":"as",
+  "ADJ":"stupid|crazy|beautiful|magnificient|blessed|holy|divine|worthy|good|funky|racist|misogynist|feminine|masculist|bourgeois|computerized|transcendental",
+  "NOMP":"money|Michael Bay|Jacques Lacan|Donald Trump|Jésus|Greta Thunberg|psychoanalysis|Science|Hugo De Garis",
+  "NPsPP":"DET N|NOMP|DET ADJ N",
+  "IS":"is"
+  }
